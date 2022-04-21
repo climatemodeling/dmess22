@@ -8,19 +8,16 @@ fa-icon: users
 
  * <a target="_blank"
 href="https://www.climatemodeling.org/~forrest/"><b>Forrest
-M. Hoffman</b></a> is a Senior Computational Climate Scientist at
-Oak Ridge National Laboratory (ORNL). As a resident researcher in
-ORNL&rsquo;s Climate Change Science Institute (CCSI) and a member of
-ORNL&rsquo;s Computational Sciences &amp; Engineering Division (CSED),
-Forrest develops and applies Earth system models (ESMs) to investigate
-the global carbon cycle and feedbacks between biogeochemical cycles
-and the climate system. He applies data mining methods using high
-performance computing to problems in landscape ecology, remote sensing,
-and large-scale climate data analytics. He founded the workshop series
-on Data Mining in Earth System Science (DMESS) in 2009 and has served
-as lead convener for all six prior workshops. Forrest is also a Joint
-Faculty Professor in the University of Tennessee&rsquo;s Department of
-Civil &amp; Environmental Engineering in nearby Knoxville, Tennessee.
+M. Hoffman</b></a> is a Distinguished Computational Earth System Scientist at Oak Ridge
+National Laboratory (ORNL). As a resident researcher in ORNL's Climate Change Science
+Institute (CCSI) and a member of ORNL's Computational Sciences & Engineering Division
+(CSED), Forrest develops and applies Earth system models (ESMs) to investigate the global
+carbon cycle and feedbacks between biogeochemical cycles and the climate system. He applies
+data mining methods using high performance computing to problems in landscape ecology,
+remote sensing, and large-scale climate data analytics. He founded the workshop series on Data
+Mining in Earth System Science (DMESS) in 2009 and has served as lead convener for all six
+prior workshops. Forrest is also a Joint Faculty Professor in the University of Tennessee's
+Department of Civil & Environmental Engineering in nearby Knoxville, Tennessee.
 
  * <a target="_blank" href="https://www.climatemodeling.org/~jkumar/"> <b>Jitendra Kumar</b></a>
 is a computational hydrologist at Oak Ridge National Laboratory
@@ -33,14 +30,10 @@ remote sensing, and development of parallel algorithms for large-scale
 supercomputers.
 
  * <a target="_blank" href="https://sarats.com/"><b>Sarat
-Sreepathi</b></a> is a Computer Scientist in the Future Technologies
-Group at Oak Ridge National Laboratory. He is working on development of
-the E3SM-Multiscale Modeling Framework (MMF) as part of the Exascale
-Computing Project (ECP). Additionally, he contributes to E3SM as a
-member of the core performance group. His research interests include
-High Performance Computing, Performance Analytics, Exascale Co-design,
-Optimization Algorithms, Computational Intelligence, Parallel I/O,
-Performance Analysis and Optimization.
+Sreepathi</b></a> is a Computer Scientist interested in interdisciplinary research at the intersection of High Performance Computing and domain sciences. He is a member of the Computational Earth Sciences Group in the Computational Sciences and Engineering Division at Oak Ridge National Laboratory. He received his Ph.D. in Computer Science from North Carolina State University. He is a Senior member of ACM and IEEE. He served as the Chair of the OLCF User Group Executive Board (2020-2021) and currently serves on the NERSC User Group Executive Committee.
+
+He co-leads the Performance group for the Energy Exascale Earth System Model (E3SM) project, DOE's flagship climate modeling effort. He leads application co-design efforts as a member of the Exascale Computing Project (ECP) application teams (Climate: E3SM-MMF and Nuclear Fusion: XGC). He is the Computational Readiness Lead and Co-PI for Innovative and Novel Computational Impact on Theory and Experiment (INCITE) supercomputer allocations for XGC and E3SM projects respectively.
+His research interests include High Performance Computing, Computational Climate Science, Performance Analytics, Exascale Co-design, Optimization Algorithms, Computational Intelligence, Parallel I/O, Performance Analysis and Optimization. 
 
 ### Program Committee 
 <!--
