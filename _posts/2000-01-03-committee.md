@@ -31,9 +31,7 @@ supercomputers.
 
  * <a target="_blank" href="https://sarats.com/"><b>Sarat
 Sreepathi</b></a> is a Computer Scientist interested in interdisciplinary research at the intersection of High Performance Computing and domain sciences. He is a member of the Computational Earth Sciences Group in the Computational Sciences and Engineering Division at Oak Ridge National Laboratory. He received his Ph.D. in Computer Science from North Carolina State University. He is a Senior member of ACM and IEEE. He served as the Chair of the OLCF User Group Executive Board (2020-2021) and currently serves on the NERSC User Group Executive Committee.
-
-He co-leads the Performance group for the Energy Exascale Earth System Model (E3SM) project, DOE's flagship climate modeling effort. He leads application co-design efforts as a member of the Exascale Computing Project (ECP) application teams (Climate: E3SM-MMF and Nuclear Fusion: XGC). He is the Computational Readiness Lead and Co-PI for Innovative and Novel Computational Impact on Theory and Experiment (INCITE) supercomputer allocations for XGC and E3SM projects respectively.
-His research interests include High Performance Computing, Computational Climate Science, Performance Analytics, Exascale Co-design, Optimization Algorithms, Computational Intelligence, Parallel I/O, Performance Analysis and Optimization. 
+He co-leads the Performance group for the Energy Exascale Earth System Model (E3SM) project, DOE's flagship climate modeling effort. He leads application co-design efforts as a member of the Exascale Computing Project (ECP) application teams (Climate: E3SM-MMF and Nuclear Fusion: XGC). 
 
 ### Program Committee 
 <!--
