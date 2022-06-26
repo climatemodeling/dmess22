@@ -34,7 +34,7 @@ Sreepathi</b></a> is a Computer Scientist interested in interdisciplinary resear
 He co-leads the Performance group for the Energy Exascale Earth System Model (E3SM) project, DOE's flagship climate modeling effort. He leads application co-design efforts as a member of the Exascale Computing Project (ECP) application teams (Climate: E3SM-MMF and Nuclear Fusion: XGC). 
 
 ### Program Committee 
-<!--
+
 <ul>
 <li> <b><a target="_blank" href="https://www.iitgn.ac.in/faculty/civil/udit.htm">Udit Bhatia </a></b> (IIT Gandhinagar, Gujarat, INDIA)</li>
 <li> <b><a target="_blank" href="https://ncics.org/people/bjorn-brooks-2/">Bj&oslash;rn-Gustaf J. Brooks</a></b> (North Carolina Institute for Climate Studies, Asheville, North Carolina, USA)</li>
@@ -57,5 +57,5 @@ He co-leads the Performance group for the Energy Exascale Earth System Model (E3
 <li> <b><a target="_blank" href="http://www-users.cs.umn.edu/~ksteinha/">Karsten Steinhaeuser</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
 <li> <b><a target="_blank" href="https://thomasvandal.com/">TJ Vandal</a></b> (NASA Ames Research Center, Moffett Field, California, USA)</li>
 <li> <b><a target="_blank" href="https://climatechangescience.ornl.gov/content/min-xu">Min Xu</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
+<li> <b><a target="_blank" href="https://www.linkedin.com/in/cheng-en-yang-38665698/">Cheng-En Yang</a></b> (Department of Civil and Environmental Engineering, University of Tennessee, Knoxville, Tennessee USA)</li>
 </ul>
--->
