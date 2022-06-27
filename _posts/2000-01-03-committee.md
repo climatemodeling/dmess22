@@ -53,7 +53,7 @@ He co-leads the Performance group for the Energy Exascale Earth System Model (E3
 <li> <b><a target="_blank" href="https://climatemodeling.org/~rmills/">Richard T. Mills</a></b> (Laboratory for Advanced Numerical Simulations, Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois, USA)</li>
 <li> <b><a target="_blank" href="https://www.srs.fs.usda.gov/staff/429">Steven P. Norman</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li>
 <li> <b><a target="_blank" href="http://sarats.com/">Sarat Sreepathi</a></b> (Computer Science &amp; Mathematics Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
-<li> <b>Vamsi Sripathi</b> (Intel Corporation, Hillsboro, Oregon, USA)</li>
+ <li> <b><a target="_blank" href-"https://www.linkedin.com/in/vamsisripathi/">Vamsi Sripathi</a></b> (Intel Corporation, Hillsboro, Oregon, USA)</li>
 <li> <b><a target="_blank" href="http://www-users.cs.umn.edu/~ksteinha/">Karsten Steinhaeuser</a></b> (Department of Computer Science and Engineering, University of Minnesota, Minneapolis, Minnesota, USA)</li>
 <li> <b><a target="_blank" href="https://thomasvandal.com/">TJ Vandal</a></b> (NASA Ames Research Center, Moffett Field, California, USA)</li>
 <li> <b><a target="_blank" href="https://climatechangescience.ornl.gov/content/min-xu">Min Xu</a></b> (Computational Earth Sciences Group, Computational Sciences &amp; Engineering Division and Oak Ridge Climate Change Science Institute (CCSI), Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
