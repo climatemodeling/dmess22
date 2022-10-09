@@ -50,6 +50,7 @@ He co-leads the Performance group for the Energy Exascale Earth System Model (E3
  <li> <b><a target="_blank" href="https://www.linkedin.com/in/kuldeepkurte">Kuldeep Kurte</a></b> (Computational Sciences and Engineering Division, Oak Ridge National Laboratory, USA)</li>
 <li> <b><a target="_blank" href="https://langfordzl.github.io/">Zachary L. Langford</a></b> (Cyber &amp; Applied Data Analytics Division, Oak Ridge National Laboratory, USA)</li>
 <li> <b><a target="_blank" href="https://rsc4earth.de/authors/mmahecha/">Miguel D. Mahecha</a></b> (Remote Sensing Center for Earth System Research, University of Leipzig, Leipzig, GERMANY)</li>
+<li> <b><a target="_blank" href="https://sites.google.com/view/muraligm/">Murali Gopalakrishnan Meena</a></b> (Oak Ridge Leadership Computing Facility, Oak Ridge National Laboratory, USA)</li>
 <li> <b><a target="_blank" href="https://climatemodeling.org/~rmills/">Richard T. Mills</a></b> (Laboratory for Advanced Numerical Simulations, Mathematics and Computer Science Division, Argonne National Laboratory, Argonne, Illinois, USA)</li>
 <li> <b><a target="_blank" href="https://www.srs.fs.usda.gov/staff/429">Steven P. Norman</a></b> (Eastern Forest Environmental Threat Assessment Center, USDA Forest Service, Asheville, North Carolina, USA)</li>
 <li> <b><a target="_blank" href="http://sarats.com/">Sarat Sreepathi</a></b> (Computer Science &amp; Mathematics Division, Oak Ridge National Laboratory, Oak Ridge, Tennessee, USA)</li>
